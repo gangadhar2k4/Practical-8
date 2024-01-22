@@ -1,0 +1,2 @@
+Before Sorting:9 3 2 6 1 0 
+After Sorting:9 6 3 2 1 0 
